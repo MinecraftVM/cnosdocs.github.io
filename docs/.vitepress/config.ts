@@ -46,7 +46,7 @@ export default defineConfig({
       {
         text: "教程",
         items: [
-          { text: "如何下载CE-RAMOS及插件？", link: "/course/down" },
+          { text: "如何下载CE-RAMOS？", link: "/course/down" },
         ],
       },
     ],
