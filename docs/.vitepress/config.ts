@@ -10,7 +10,7 @@ export default defineConfig({
       provider: 'local'
     },
     socialLinks: [{icon: 'github', link: 'https://github.com/MinecraftVM'}],
-    logo: "/Logo.png",
+    logo: "/public/Logo.png",
     nav: [
       {
         text: "首页",
