@@ -37,16 +37,16 @@ export default defineConfig({
       {
         text: "常见问题",
         items: [
-          { text: "CE-RAMOS是什么？", link: "/faq/what_ce" },
+          { text: "CentNet OS是什么？", link: "/faq/what_ce" },
           { text: "是否有后门，流氓行为？", link: "/faq/safety" },
-          { text: "CE-RAMOS支持WIFI吗？", link: "/faq/wifi" },
+          { text: "CentNet OS支持WIFI吗？", link: "/faq/wifi" },
           { text: "开始菜单和设置打不开怎么办？", link: "/faq/uwp_apps" },
         ],
       },
       {
         text: "教程",
         items: [
-          { text: "如何下载CE-RAMOS及插件？", link: "/course/down" },
+          { text: "如何下载CentNet OS？", link: "/course/down" },
         ],
       },
     ],
