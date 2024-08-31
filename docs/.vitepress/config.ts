@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'CentNet-OS Docs',
+  title: 'CentNet OS Docs',
 
   themeConfig: {
     search: {
