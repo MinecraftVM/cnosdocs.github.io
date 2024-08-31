@@ -11,4 +11,4 @@
 # 介绍
 关于CentNet OS 2.0 Preview的体验请观看视频内容：
 
-<video src="https://player.bilibili.com/player.html?isOutside=true&aid=112932373399309&bvid=BV1fXYuePEHY&cid=500001643889877&p=1" style="width: 100%;" controls="controls" poster="https://centnet-os.top/upload/屏幕截图%202024-08-09%20213733.png"></video>
+<video src="https://upos-sz-mirrorali.bilivideo.com/upgcxcode/77/98/500001643889877/500001643889877-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1725121729&gen=playurlv2&os=alibv&oi=3746163314&trid=80c9d81d80b94996b95376cf9cd08a60h&mid=1568943083&platform=html5&og=hw&upsig=e04d83462ae488b3fc98b0b626dac05b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&f=h_0_0&bw=20550&logo=80000000" style="width: 100%;" controls="controls" poster="https://centnet-os.top/upload/屏幕截图%202024-08-09%20213733.png"></video>
