@@ -12,7 +12,7 @@ hero:
       link: /start/start
     - theme: alt
       text: 查看仓库
-      link: https://github.com/CJA-OS/CE-RAMOS
+      link: https://github.com/MinecraftVM/minecraftvm.github.io
 
   image:
     src: /Logo.png
