@@ -18,8 +18,8 @@
 <Badge type="tip">版本：{{ iso_second_version }}</Badge> <Badge type="info">作者：CentNet OS开发团队</Badge> <Badge type="warning">版本类型：Stable</Badge>
 
 ### CentNet OS Hub
-* 技术栈： Xaml、C#、WinUI、React
-<Badge type="tip">版本：{{ hub_version }}</Badge> <Badge type="info">作者：Minecraft-VMware</Badge> <Badge type="warning">版本类型：Alpha</Badge>
+* 技术栈： Xaml、C#、WinUI
+<Badge type="tip">版本：0.0.1</Badge> <Badge type="info">作者：Minecraft-VMware</Badge> <Badge type="warning">版本类型：Alpha</Badge>
 
 :::tip 提示
 CentNet OS Hub目前尚未发布，敬请期待
