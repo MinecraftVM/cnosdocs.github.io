@@ -37,7 +37,7 @@ export default defineConfig({
       {
         text: "常见问题",
         items: [
-          { text: "CentNet OS是什么？", link: "/faq/what_ce" },
+          { text: "CentNet OS是什么？", link: "/faq/what_cn" },
           { text: "是否有后门，流氓行为？", link: "/faq/safety" },
           { text: "CentNet OS支持WIFI吗？", link: "/faq/wifi" },
           { text: "开始菜单和设置打不开怎么办？", link: "/faq/uwp_apps" },
@@ -55,7 +55,7 @@ export default defineConfig({
     },
     editLink: {
       text: '在 GitHub 上编辑此页',
-      pattern: 'https://github.com/MinecraftVM'
+      pattern: 'https://github.com/MinecraftVM/minecraftvm.github.io'
     },
   },
 });
