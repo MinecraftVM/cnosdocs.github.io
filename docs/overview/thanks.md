@@ -18,5 +18,3 @@ UWPPE内核开发：Minecraft-VMware
 
 ### 感谢所有对本项目做出贡献的人！
 CSJ-OS:提供一些技术支持
-
-CJA-OS:帮我完善了一部分UWP
