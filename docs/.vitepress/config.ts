@@ -9,6 +9,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+    socialLinks: [{icon: 'bilibili', link: 'https://space.bilibili.com/1568943083'}],
     socialLinks: [{icon: 'github', link: 'https://github.com/MinecraftVM'}],
     logo: "/Logo.png",
     nav: [
@@ -51,8 +52,9 @@ export default defineConfig({
       },
     ],
     footer: {
-      copyright: "© CentNet OS开发团队",
-    },
+      message: 'Minecraft-VMware & Ptlcx',
+      copyright: '© CentNetOS开发团队'
+    }
     editLink: {
       text: '在 GitHub 上编辑此页',
       pattern: 'https://github.com/MinecraftVM/minecraftvm.github.io'
