@@ -53,7 +53,7 @@ export default defineConfig({
     footer: {
       message: 'Minecraft-VMware & Ptlcx',
       copyright: '© CentNetOS开发团队'
-    }
+    },
     editLink: {
       text: '在 GitHub 上编辑此页',
       pattern: 'https://github.com/MinecraftVM/minecraftvm.github.io'
