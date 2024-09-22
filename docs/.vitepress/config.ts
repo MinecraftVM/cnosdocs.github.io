@@ -9,7 +9,6 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    socialLinks: [{icon: 'bilibili', link: 'https://space.bilibili.com/1568943083'}],
     socialLinks: [{icon: 'github', link: 'https://github.com/MinecraftVM'}],
     logo: "/Logo.png",
     nav: [
