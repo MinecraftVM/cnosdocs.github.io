@@ -5,7 +5,7 @@
 #### UWPPE版本：
 * 基于 Windows11 23H2 母盘制作的内核
 * 完全采用系统自带组件，确保提供与原版系统极为相似的使用体验
-<Badge type="tip">版本：{{ iso_version }}</Badge> <Badge type="info">作者：CE-RAMOS开发团队</Badge> <Badge type="warning">版本类型：Stable</Badge>
+<Badge type="tip">版本：2.0</Badge> <Badge type="info">作者：CentNet OS开发团队</Badge> <Badge type="warning">版本类型：Preview</Badge>
 :::tip 母盘信息
 22635.3061.240102-1517.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTPRO_OEMRET_X64FRE_ZH-CN.ISO
 :::
