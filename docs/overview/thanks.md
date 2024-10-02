@@ -1,5 +1,10 @@
 # 感谢
 （排名不分先后，如有遗漏请谅解并联系我们补充）
+
+[mdyblog](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=205402 "mdyblog") —— PECMD2012作者
+
+[slorelee](https://github.com/slorelee) —— WinXShell，Wimbuilder2作者
+
 ## 项目主要成员
 
 UWPPE内核开发：Minecraft-VMware
