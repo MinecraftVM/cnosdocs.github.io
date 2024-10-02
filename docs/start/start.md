@@ -13,6 +13,6 @@
 
 <video src="/cnos.mp4" style="width: 100%;" controls="controls" poster="/cnos.png"></video>
 
-#QQ交流群
+# QQ交流群
 
 ![](/qq.png)
