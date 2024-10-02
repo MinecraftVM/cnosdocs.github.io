@@ -12,3 +12,7 @@
 关于CentNet OS 2.0 Preview的体验请观看视频内容：
 
 <video src="/cnos.mp4" style="width: 100%;" controls="controls" poster="/cnos.png"></video>
+
+#QQ交流群
+
+![](/qq.png)
